@@ -1,0 +1,89 @@
+<!DOCTYPE HTML>
+
+<html lang="pl">
+<head>
+	<meta charset="utf-8" />
+	<title>Miód</title>
+	<meta name="description" content="Tylko najlepsze miody" />
+	<meta name="keywords" content="miody, słodkie, zdrowe, smaczne, pszczelnictwo, spadź, akacja, rzepak, lipa, mniszek" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+		
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	
+	<link href='https://fonts.googleapis.com/css?family=Lato:400,700&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+	
+</head>
+
+<body>
+	<div id = "container"> 
+	<div id = "top-bar">
+	
+	<div id="menu">
+		<ol> 
+			<li> <a href="#">Strona główna</a> </li>
+			<li> <a href="#">Nasze produkty</a>
+				<ul>
+				    <li><a href="#">Miód akacjowy</a></li>
+				    <li><a href="#">Miód faceliowy</a></li>					
+					<li><a href="#">Miód gryczany</a></li>
+					<li><a href="#">Miód lipowy</a></li>
+					<li><a href="#">Miód mniszkowy</a></li>
+					<li><a href="#">Miód rzepakowy</a></li>
+					<li><a href="#">Miód spadziowy</a></li>
+					<li><a href="#">Miód wielokwiatowy</a></li>
+		
+					
+					
+				</ul>
+
+			</li>
+			<li> <a href="#"> Sklep internetowy </a> </li>
+			<li> <a href="#"> O miodzie</a> </li>
+		</ol>
+	
+	
+	
+	</div>
+	
+	
+	
+	
+	
+	<div style="clear:both;"> </div>
+ 	
+	
+	</div>
+	
+		<div id="information"> 
+	<ol>
+		<li>email:w.banulska@gmail.com</li>
+		<li>kontakt:508-580-502</li>
+		<li>zaloguj sie</li>
+	</ol>	
+	</div>
+	
+	
+	
+	<div id = "Top-line"> </div>
+	
+	
+	
+	<div id = "content"> 
+	
+	<div id = "photo"> 
+		
+		
+		</div>
+	
+	</div>
+
+
+</body>
+
+
+
+
+
+
+
+</html>

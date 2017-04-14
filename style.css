@@ -1,0 +1,286 @@
+body
+{
+	/* Background pattern from subtlepatterns.com */
+	background-image: url("img/tlo.png");
+	margin:0 !important;
+	font-family: 'Lato', sans-serif;	
+	
+}
+
+
+#container
+{
+	width:100%;
+	margin-left:auto;
+	margin-right:auto;
+	
+}
+
+#top-bar
+{
+	color:#E5DF3D;
+	background-image: url("img/background.jpg");
+	width:100%;
+    min-width:1200px;
+    height:70px;
+	padding:0px;
+
+}
+
+#information
+{
+	float:left;
+	color: #8D613A;
+	margin:-20px;
+	width:35%;
+		min-width:200px;
+		margin-top:5px;
+
+	
+}
+
+#information ol
+{
+	width:100%;
+	padding:0px;
+	list-style-type:none;
+	font-size:12px;
+	height:20px;
+	line-height:200%;
+	text-align:right;
+	margin-top:15px;
+		min-width:100px;
+
+
+
+}
+
+
+#information ol>li
+{
+	padding:10px;
+	float:left;
+	border-left:3px dashed #8D613A;
+	font-weight:700;
+	display:inline-block;
+	
+
+
+
+}
+
+
+#menu ol>li>ul
+{
+	list-style-type:none;
+	margin:0;
+	padding:0;
+	font-size:18px;
+	
+}
+
+
+#information ol>li:last-child
+{
+	border-right:3px dashed #8D613A;
+}
+
+
+#menu
+{
+	float:left;
+	min-width:800px;
+	
+}
+
+#menu ol
+{
+	padding:0;
+	list-style-type:none;
+	font-size:18px;
+	height:20px;
+	line-height:200%;
+	display:inline-block;
+    margin:0;
+	margin-top:10px;
+
+}
+
+#menu ol>li
+{
+	float:left;	
+	height:40px;
+	padding:10px;
+	padding-top:5px;
+	border-right: 1px solid #915D3F;
+	text-align:justify;
+
+}
+
+#menu ol>li:last-child
+{
+	min-width:90px;
+
+}
+
+#menu ol>li:first-child
+{
+	min-width:120px;
+	border-left: 1px solid #915D3F;
+	margin-left:5px;
+
+}
+
+#menu ol>li:nth-child(2)
+{
+	min-width:120px;
+
+}
+
+
+#menu ol>li:nth-child(3)
+{
+	min-width:150px;
+
+}
+
+#Top-line
+{
+	width:100%;
+	min-width:1200px;
+	background-color:black;
+	height:2px;
+	margin-top:0px;
+}
+
+#menu ol a
+{
+	text-decoration:none;
+	color:#915D3F;
+	display:block;
+
+}
+
+#menu ol>li>ul
+{
+  margin:0;
+  padding:0;
+  display:none;
+  width:120px;
+}
+
+#menu ol>li:hover
+{
+	background-color:#CB9B5D;
+	cursor:pointer;
+
+
+}
+
+#menu ol>li:hover>ul
+
+{
+	display:block;
+	width:120px;
+
+
+	
+		
+}
+
+#menu ol>li>ul>li 
+{
+		width:150px;
+
+	height:30px;
+	margin:0px;
+	padding:0px;
+
+}
+
+
+#menu ol>li>ul>li a
+{
+	color:#684921;
+	background-color:#CE892F;
+	width:145px;
+	margin-left:-10px;
+	position:relative;
+	z-index:100;
+	border-top:1px dashed #BA6F2D;
+	font-weight:700;
+	font-size:14px;
+}
+
+#menu ol>li>ul>li a:hover
+{
+	background-color:#917147;
+	width:145px;
+}
+
+#photo
+{
+	float:left;
+	height:400px;
+    margin-left:50px;
+	margin-top:30px;
+	width:500px;
+	background-image: url("img/pasieka.png");
+}
+
+#block
+{
+	min-width:1000px;
+}
+
+#content
+{
+	float:left;
+    width:35%;
+    margin-left:50px;
+	margin-top:50px;
+	height:400px;
+	color: #80623C;
+   	font-weight:700;
+	font-size:22px;
+
+	
+}
+
+#slider-container
+{
+	margin-top:20px;
+	margin-left:400px;
+	width:700px;
+	height:400px;
+}
+
+#slider
+{
+
+
+}
+
+#footer
+{
+	width:100%;
+	height:10px;
+ 	background-color:#CB9B5D;
+	padding:10px;
+	margin-top: 20px;
+	text-align:center;
+}
+
+
+
+
+.styl1
+{
+	color:red;
+	font-size:14px;
+	margin-left:20px;
+	border-left: 1px dashed black;
+	float:left;
+	float:left;
+}
+
